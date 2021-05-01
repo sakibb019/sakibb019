@@ -1,6 +1,6 @@
 ![Research Student ](https://resources.github.com/assets/img/webcasts/github-standard-banner.png)
 
-# Mohammad Sakib Mahmood
+## Mohammad Sakib Mahmood
 ### Research Student 
 
 I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
