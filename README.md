@@ -1,15 +1,11 @@
 ![Research Student ](https://resources.github.com/assets/img/webcasts/github-standard-banner.png)
 
-### Hi there 👋 I am Mohammad Sakib Mahmood
-#### Research Student 
+# Mohammad Sakib Mahmood
+### Research Student 
 
 I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
 
-
-
-I am Mohammad Sakib Mahmood from Bangladesh. I do work on Data science projects, ML, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
-
-Skills: Bootstrap / REACT / JS / HTML / CSS / Python
+## Skills: Bootstrap / REACT / JS / HTML / CSS / Python
 
 - 📫 How to reach me: sakibmahmood485@gmail.com 
 
