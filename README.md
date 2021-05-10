@@ -31,9 +31,12 @@ CSS          4 mins          ▒░░░░░░░░░░░░░░░░
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=symfony&theme=dark" />
 </a>
 
+
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sakibb019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdsakibmahmood/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sakibb019.github.io/sakib019.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/coursera.svg' alt='coursera' height='40'>](https://www.coursera.org/accomplishments)  
+## Connecting with
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sakibb019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdsakibmahmood/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sakibb019.github.io/sakib019.github.io/)  [<img src='https://img.icons8.com/windows/32/000000/hackerrank.png' alt='coursera' height='40'>](https://www.hackerrank.com/sakibmahmood485)  
 
 ### GitHub Stats
 
