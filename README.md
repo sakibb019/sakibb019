@@ -12,11 +12,9 @@ I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial I
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 29 mins   ████████████████████░░░░░   80.55 % 
-HTML         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-Markdown     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+JavaScript   2 hrs 53 mins   ███████████████████████▒░   93.96 % 
+Markdown     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 ```
 <!--END_SECTION:waka-->
 
