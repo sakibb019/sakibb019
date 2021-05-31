@@ -12,8 +12,8 @@ I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial I
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-PHP              25 mins         ████████████████████▓░░░░   83.30 % 
-Blade Template   5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.70 % 
+PHP              1 hr 33 mins    ██████████████████░░░░░░░   72.40 % 
+Blade Template   34 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.95 % 
 ```
 <!--END_SECTION:waka-->
 
