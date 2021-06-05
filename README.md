@@ -31,7 +31,9 @@ Blade Template   34 mins         █████░░░░░░░░░░�
 <a href="https://github.com/sakibb019/UI-project">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=UI-project&theme=dark" />
 </a>
-
+<a href="https://github.com/sakibb019/Birthday-Analysis">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=Birthday-Analysis&theme=dark" />
+</a>
 
 ### Trophy Stats
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sakibb019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
