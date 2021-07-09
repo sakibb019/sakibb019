@@ -12,11 +12,11 @@ I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial I
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Groovy       2 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
-JSON         1 hr 40 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-Java         49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-JavaScript   48 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-XML          30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Dart         3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+Groovy       2 hrs 38 mins   ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+JSON         1 hr 43 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Java         49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+JavaScript   48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 ```
 <!--END_SECTION:waka-->
 
