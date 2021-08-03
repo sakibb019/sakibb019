@@ -13,7 +13,7 @@ I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial I
 - Graduated and completed Bachelors degree from American International University-Bangladesh [(AIUB)](https://www.aiub.edu/)
 - Currently working on ML and different data driven predictive, analytical projects .
 - **Latest Blog**:  Gold Price Prediction using Machine Learning with Python. [(link)](https://medium.com/mlearning-ai/gold-price-prediction-using-machine-learning-with-python-ec5c5e336713)
-- 
+
 ### *Coding Stats*
 <!--START_SECTION:waka-->
 ```text
