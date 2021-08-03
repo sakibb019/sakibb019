@@ -1,15 +1,20 @@
 ![Research Student ](https://resources.github.com/assets/img/webcasts/github-standard-banner.png)
 
-## Mohammad Sakib Mahmood
+## Hello, This is Mohammad Sakib Mahmood
 ### Research Student 
 
 I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
 
-## Skills: Bootstrap / REACT / JS / HTML / CSS / Python
+## Skills: Bootstrap / REACT / JS / HTML / CSS / Python / Tensorflow 
 
 - 📫 How to reach me: sakibmahmood485@gmail.com 
 
-### Coding Stats
+#### *Currently looking for Data Scientist, Research Assistant Roles!*
+- Graduated and completed Bachelors degree from American International University-Bangladesh [(AIUB)](https://www.aiub.edu/)
+- Currently working on ML and different data driven predictive, analytical projects .
+- **Latest Blog**:  Gold Price Prediction using Machine Learning with Python. [(link)](https://medium.com/mlearning-ai/gold-price-prediction-using-machine-learning-with-python-ec5c5e336713)
+- 
+### *Coding Stats*
 <!--START_SECTION:waka-->
 ```text
 Other    6 mins          ███████████████████░░░░░░   75.34 % 
@@ -34,13 +39,13 @@ Python   2 mins          ██████░░░░░░░░░░░░�
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=Birthday-Analysis&theme=dark" />
 </a>
 
-### Trophy Stats
+### *Trophy Stats*
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sakibb019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Language Stats
+### *Language Stats*
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibb019&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-### Streak-Stats
+### *Streak-Stats*
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibb019&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
@@ -48,7 +53,9 @@ Python   2 mins          ██████░░░░░░░░░░░░�
 
 
 
-### GitHub Stats
+### *GitHub Stats*
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibb019)](https://github.com/anuraghazra/github-readme-stats)
+
+<p><img align='right' src="https://komarev.com/ghpvc/?username=sakibb019" alt="sakibb019" /> </p>
 
