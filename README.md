@@ -17,7 +17,7 @@ I am Sakib from Bangladesh. I do work on Data science projects, ML, Artificial I
 ### *Coding Stats*
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML   36 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
