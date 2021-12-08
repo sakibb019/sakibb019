@@ -18,8 +18,8 @@ I am Sakib incoming Masters student in Computer Science department at [Missouri 
 ### *Coding Stats*
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 16 mins    █████████████████░░░░░░░░   67.54 % 
-JavaScript   35 mins         ████████░░░░░░░░░░░░░░░░░   31.75 % 
+Python       1 hr 11 mins    ██████████████████████▒░░   88.86 % 
+JavaScript   8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
 ```
 <!--END_SECTION:waka-->
 
