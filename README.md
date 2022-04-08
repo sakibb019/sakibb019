@@ -17,9 +17,16 @@ I am Sakib Masters student in Computer Science department at [Missouri State Uni
 
 ### *Coding Stats*
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+Python     4 hrs 29 mins   ████████████░░░░░░░░░░░░░   48.33 %
+C++        1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.37 %
+Markdown   1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+C          1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
+Java       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+CMake      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
+
 <!--END_SECTION:waka-->
 
 </div>
