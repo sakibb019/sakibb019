@@ -19,12 +19,12 @@ I am Sakib Masters student in Computer Science department at [Missouri State Uni
 <!--START_SECTION:waka-->
 
 ```text
-Python     7 hrs 16 mins   ███████████████▒░░░░░░░░░   61.98 %
-C++        1 hr 39 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
-Markdown   1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-C          1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Java       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Python           11 hrs 1 min    █████████████████░░░░░░░░   67.66 %
+C++              1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
+Markdown         1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+C                1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+GitIgnore file   25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Text             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
