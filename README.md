@@ -19,11 +19,7 @@ I am Sakib Masters student in Computer Science department at [Missouri State Uni
 <!--START_SECTION:waka-->
 
 ```text
-C++           1 hr 57 mins    ████████████████████▒░░░░   81.96 %
-Objective-C   16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-C             8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Text          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-CMake         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
