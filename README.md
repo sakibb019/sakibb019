@@ -19,12 +19,11 @@ I am Sakib Masters student in Computer Science department at [Missouri State Uni
 <!--START_SECTION:waka-->
 
 ```text
-HTML         11 mins         █████████████░░░░░░░░░░░░   52.37 %
-PHP          3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-CSS          2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
-JavaScript   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-SCSS         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+PHP          3 mins          █████████████░░░░░░░░░░░░   52.47 %
+JavaScript   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+SCSS         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+XML          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
