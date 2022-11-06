@@ -3,7 +3,7 @@
 ## Hello, This is Mohammad Sakib Mahmood
 ### Research Student 
 
-I am Sakib Graduate student in Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
+I am Sakib Graduate student in Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
 
 ## Skills: Bootstrap / REACT / JS / HTML / CSS / Python / Tensorflow 
 
