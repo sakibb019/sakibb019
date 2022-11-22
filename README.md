@@ -42,8 +42,7 @@ CSV      1 min           ▒░░░░░░░░░░░░░░░░░�
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=Birthday-Analysis&theme=dark" />
 </a>
 
-### *Trophy Stats*
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sakibb019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### *Language Stats*
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibb019&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,6 +50,11 @@ CSV      1 min           ▒░░░░░░░░░░░░░░░░░�
 ### *Streak-Stats*
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibb019&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+
+ ![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sakibb019&theme=react-dark)
+  
+### *Trophy Stats*
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sakibb019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
