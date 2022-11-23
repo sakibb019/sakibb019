@@ -61,7 +61,11 @@ CSV      1 min           ▒░░░░░░░░░░░░░░░░░�
 
 ## Connecting with
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sakibb019)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mdsakibmahmood/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sakibb019.github.io/sakib019.github.io/)  [<img src='https://img.icons8.com/windows/32/000000/hackerrank.png' alt='coursera' height='40'>](https://www.hackerrank.com/sakibmahmood485)  
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/keilabcs)](https://github.com/sakibb019)
+[![Github Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://github.com/keilabcs)](https://sakibmahmood.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keilabcs/)](https://www.linkedin.com/in/mdsakibmahmood)
+[![Gmail Badge](https://img.shields.io/badge/-HackerRank-42b74c?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/sakibmahmood485)](http://www.hankerrank.com/sakibmahmood485)
+[![Instagram Badge](https://img.shields.io/badge/-Coding_Stats-11389e?style=flat-square&logo=Icloud&logoColor=white&link=https://wakatime.com/@sakib019)](https://wakatime.com/@sakib019) 
 
 
 ### *GitHub Stats*
