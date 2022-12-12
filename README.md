@@ -20,11 +20,10 @@ I am Sakib Graduate student in Computer Science department at [Missouri State Un
 <!--START_SECTION:waka-->
 
 ```text
-Python   7 hrs 17 mins   ███████████████████▓░░░░░   79.04 %
-Cypher   1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
-HTML     39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   4 hrs 8 mins    █████████████████░░░░░░░░   67.64 %
+Cypher   1 hr 16 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.81 %
+HTML     42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
