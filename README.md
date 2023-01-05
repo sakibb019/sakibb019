@@ -1,11 +1,11 @@
 ![Research Student ](https://resources.github.com/assets/img/webcasts/github-standard-banner.png)
 
 ## Hello, This is Mohammad Sakib Mahmood
-### Research Student 
+### Machine learning Data Engineer (Intern) & Research Student 
 
-I am Sakib Graduate student in Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress.
+I am Sakib Graduate student in Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress. I love to do work on web devlopment.
 
-## Skills: Python / Tensorflow/ Bootstrap / REACT / JS / HTML / CSS 
+## Skills: Python / Tensorflow/ Bootstrap / REACT / JS / HTML / CSS / NODE.js
 
 - 📫 How to reach me: sakibmahmood485@gmail.com 
 - 💻 Here is my [Personal HomePage](https://sakibmahmoodd.weebly.com/)
