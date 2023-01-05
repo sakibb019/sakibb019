@@ -5,8 +5,16 @@
 
 I am Sakib Graduate student in Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress. I love to do work on web devlopment.
 
-## Skills: Python / Tensorflow/ Bootstrap / REACT / JS / HTML / CSS / NODE.js
+## Skills: 
+### Programming languages: <a href="https://www.python.org" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
 
+###  Frontend Development: <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a> <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+
+### Databases & Cloud Hosting: <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a> <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a> <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a> <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+
+### Software & Tools: <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a> <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a> <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a> <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+
+## conect
 - 📫 How to reach me: sakibmahmood485@gmail.com 
 - 💻 Here is my [Personal HomePage](https://sakibmahmoodd.weebly.com/)
 
@@ -60,7 +68,7 @@ Text         0 secs          ░░░░░░░░░░░░░░░░░
   
 ### *Trophy Stats*
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sakibb019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
 </div>
 
 ## Connecting with
