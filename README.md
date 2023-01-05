@@ -10,11 +10,12 @@ I am Sakib Graduate student in Computer Science department at [Missouri State Un
 - 📫 How to reach me: sakibmahmood485@gmail.com 
 - 💻 Here is my [Personal HomePage](https://sakibmahmoodd.weebly.com/)
 
-#### *Currently looking for Data Scientist, Research Assistant Roles!*
+#### *Currently looking for Data Scientist, Research Assistant Roles, Full Stack developer!*
 - Graduated and completed Bachelors degree from American International University-Bangladesh [(AIUB)](https://www.aiub.edu/)
 - Currently working on ML and different data driven predictive, analytical projects .
 - **Latest Blog**:  Gold Price Prediction using Machine Learning with Python. [(link)](https://medium.com/mlearning-ai/gold-price-prediction-using-machine-learning-with-python-ec5c5e336713)
 - Here is all of my data science project that i did [Mohammad Sakib Mahmood Coding Blog](https://sakibb019.github.io/Portfolio/).
+- Here is my update web development project: [E-commerce site](https://worldtourr.netlify.app/), [Perosonal portfolio](https://porfolio11.netlify.app/).
 
 ### *Coding Stats*
 <!--START_SECTION:waka-->
