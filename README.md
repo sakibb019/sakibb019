@@ -86,7 +86,7 @@ CSS          51 mins         █░░░░░░░░░░░░░░░░
 
 ### *GitHub Stats*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibb019)](https://github.com/anuraghazra/github-readme-stats)
-
-<p><img align='right' src="https://komarev.com/ghpvc/?username=sakibb019" alt="sakibb019" /> </p>
+<p align="center">
+  <img alt= "PK's Github Stats"  src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakibb019&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  </p>
 
