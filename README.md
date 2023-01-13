@@ -48,16 +48,16 @@ CSS          51 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
   
 <a href="https://github.com/sakibb019/Using-Databases-with-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=Using-Databases-with-Python&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=Using-Databases-with-Python&theme=dark" />
 </a>
 <a href="https://github.com/sakibb019/symfony">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=symfony&theme=dark" />
+ <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=symfony&theme=dark" />
 </a>
 <a href="https://github.com/sakibb019/UI-project">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=UI-project&theme=dark" />
+ <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=UI-project&theme=dark" />
 </a>
 <a href="https://github.com/sakibb019/Birthday-Analysis">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sakibb019&repo=Birthday-Analysis&theme=dark" />
+ <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=Birthday-Analysis&theme=dark" />
 </a>
 
 
