@@ -63,7 +63,9 @@ CSS          51 mins         █░░░░░░░░░░░░░░░░
 
 
 ### *Language Stats*
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibb019&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/sakibb019">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakibb019&theme=light&hide_langs_below=1" />
+</a>
 
 ### *Streak-Stats*
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibb019&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
