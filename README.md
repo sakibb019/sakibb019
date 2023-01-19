@@ -34,12 +34,12 @@ I am Sakib Graduate student in Computer Science department at [Missouri State Un
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 38 mins   ██████████████▒░░░░░░░░░░   57.06 %
-SCSS         1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-HTML         1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-JSON         55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Bash         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Git Config   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+JavaScript   5 hrs 59 mins   ██████████████░░░░░░░░░░░   56.54 %
+SCSS         1 hr 30 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
+HTML         1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
+JSON         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Bash         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Git Config   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
