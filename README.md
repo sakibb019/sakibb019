@@ -48,7 +48,7 @@ Bash         33 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<a href="https://github.com/sakibb019/Using-MERN-social-media-site">
+<a href="https://github.com/sakibb019/Using-MERN-social-media-site"> 
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=Using-MERN-social-media-site&theme=dark" />
 </a>
   
