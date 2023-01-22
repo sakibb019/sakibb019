@@ -49,7 +49,7 @@ Bash         33 mins         █░░░░░░░░░░░░░░░░
 <div align="center">
 
 <a href="https://github.com/sakibb019/Using-MERN-social-media-site">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=Using-Databases-with-Python&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sakibb019&repo=Using-MERN-social-media-site&theme=dark" />
 </a>
   
 <a href="https://github.com/sakibb019/Using-Databases-with-Python">
