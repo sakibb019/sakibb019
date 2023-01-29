@@ -34,12 +34,12 @@ I am Sakib Graduate student in Computer Science department at [Missouri State Un
 <!--START_SECTION:waka-->
 
 ```text
-Blade Template   42 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
-PHP              36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.98 %
-CSS              33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-HTML             29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.09 %
-Python           16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Bash             5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Blade Template   42 mins         ███████▓░░░░░░░░░░░░░░░░░   30.10 %
+CSS              33 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
+HTML             29 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
+Python           16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Bash             5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+PHP              5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
 <!--END_SECTION:waka-->
