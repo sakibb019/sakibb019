@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Mohammad%20Sakib%20Mahmood&fontSize=50&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile&descAlignY=51&descAlign=62)
 
 ## Hello, This is Mohammad Sakib Mahmood
-### Machine learning Data Engineer (Intern) & Research Student 
+### Machine Learning Data Engineer (Intern) & Research Student 
 
-I am Sakib Graduate student in Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and framework Visual Studio, Atoms, Sublime as well as work in WordPress. I love to do work on web devlopment.
+I am Sakib Graduate student in the Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and frameworks in Visual Studio, Atoms, and Sublime as well as work in WordPress. I love to do work on web development.
 
 ## Skills: 
 ### Programming languages: <a href="https://www.python.org" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
@@ -21,14 +21,15 @@ I am Sakib Graduate student in Computer Science department at [Missouri State Un
 ## Connect
 - 📫 How to reach me: sakibmahmood485@gmail.com 
 - 💻 Here is my [Personal HomePage](https://sakibmahmoodd.weebly.com/)
-- 💳 My NPX business card is (*Before it the **[Node.js](https://nodejs.org/en/)** must be install on the machine and then in the command propmt simply type*) **`npx sa.sakibbb`** and then run.
+- 💳 My NPX business card is (*Before it the **[Node.js](https://nodejs.org/en/)** must be installed on the machine and then in the command prompt simply type*) **`npx sa.sakibbb`** and then run.
+- Joint collaboration research work with the U.S.A., Japan, Saudi Arabia, Bangladesh, and Hungary at **[Advanced Machine Intelligence Research Lab](https://amirl.org/)**
 
 #### *Currently looking for Ph.D program in Computer Science/Engineering, Data Scientist, Research Assistant Roles, Full Stack developer!*
 - Graduated and completed Bachelors degree from American International University-Bangladesh [(AIUB)](https://www.aiub.edu/)
-- Currently working on ML and different data driven predictive, analytical projects .
+- Currently working on ML and different data-driven predictive, analytical projects.
 - **Latest Blog**:  Gold Price Prediction using Machine Learning with Python. [(link)](https://medium.com/mlearning-ai/gold-price-prediction-using-machine-learning-with-python-ec5c5e336713)
-- Here is all of my data science project that i did [Mohammad Sakib Mahmood Coding Blog](https://sakibb019.github.io/Portfolio/).
-- Here is my update web development project: [E-commerce site](https://worldtourr.netlify.app/), [Perosonal portfolio](https://porfolio11.netlify.app/).
+- Here is all of my data science project that I did [Mohammad Sakib Mahmood Coding Blog](https://sakibb019.github.io/Portfolio/).
+- Here is my updated web development project: [E-commerce site](https://worldtourr.netlify.app/), [Perosonal portfolio](https://porfolio11.netlify.app/).
 
 ### *Coding Stats*
 <!--START_SECTION:waka-->
