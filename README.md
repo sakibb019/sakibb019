@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Mohammad%20Sakib%20Mahmood&fontSize=50&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile&descAlignY=51&descAlign=62)
 
 ## Hello, This is Mohammad Sakib Mahmood
-### Machine Learning Data Engineer (Intern) & Research Student 
+### Machine Learning Data Engineer (Intern) & Research Assistant  **[Advanced Machine Intelligence Research Lab](https://amirl.org/)**
 
 I am Sakib Graduate student in the Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and frameworks in Visual Studio, Atoms, and Sublime as well as work in WordPress. I love to do work on web development.
 
@@ -72,6 +72,7 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sakibb019&theme=light&hide_langs_below=1" />
 </a>
 
+
 ### *Streak-Stats*
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sakibb019&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
@@ -79,6 +80,7 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
   
 ### *Trophy Stats*
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sakibb019&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
   
 </div>
 
@@ -90,10 +92,11 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 [![Gmail Badge](https://img.shields.io/badge/-HackerRank-42b74c?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/sakibmahmood485)](http://www.hankerrank.com/sakibmahmood485)
 [![Instagram Badge](https://img.shields.io/badge/-Coding_Stats-11389e?style=flat-square&logo=Icloud&logoColor=white&link=https://wakatime.com/@sakib019)](https://wakatime.com/@sakib019) 
 
-
+<!---
 ### *GitHub Stats*
 
 <p align="center">
   <img alt= "PK's Github Stats"  src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakibb019&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
   </p>
+  --->
 
