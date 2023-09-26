@@ -35,9 +35,7 @@ I am Sakib Graduate student in the Computer Science department at [Missouri Stat
 <!--START_SECTION:waka-->
 
 ```txt
-C++        13 mins         ████████████████░░░░░░░░░   64.61 %
-Assembly   7 mins          ████████▓░░░░░░░░░░░░░░░░   34.63 %
-Ezhil      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+C++   13 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
