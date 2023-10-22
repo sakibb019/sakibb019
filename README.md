@@ -24,7 +24,7 @@ I am Sakib Graduate student in the Computer Science department at [Missouri Stat
 - 💳 My NPX business card is (*Before it the **[Node.js](https://nodejs.org/en/)** must be installed on the machine and then in the command prompt simply type*) **`npx sa.sakibbb`** and then run.
 - Joint collaboration research work with the U.S.A., Japan, Saudi Arabia, Bangladesh, and Hungary at **[Advanced Machine Intelligence Research Lab](https://amirl.org/)**
 
-#### *Currently looking for Ph.D program in Computer Science/Engineering, Data Scientist, Research Assistant Roles, Full Stack developer!*
+#### *Currently looking for a Faculty position/ Ph.D program in Computer Science/Engineering, Data Scientist, Research Assistant Roles*
 - Graduated and completed Bachelors degree from American International University-Bangladesh [(AIUB)](https://www.aiub.edu/)
 - Currently working on ML and different data-driven predictive, analytical projects.
 - **Latest Blog**:  Gold Price Prediction using Machine Learning with Python. [(link)](https://medium.com/mlearning-ai/gold-price-prediction-using-machine-learning-with-python-ec5c5e336713)
