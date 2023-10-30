@@ -35,11 +35,11 @@ I am Sakib Graduate student in the Computer Science department at [Missouri Stat
 <!--START_SECTION:waka-->
 
 ```txt
-HTML     2 hrs 13 mins   ███████████████████░░░░░░   75.74 %
-CSS      16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-C++      11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-Text     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-SCSS     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+HTML     1 hr 27 mins    ████████████████▓░░░░░░░░   67.32 %
+CSS      16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 %
+C++      11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Text     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+SCSS     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
 ```
 
 <!--END_SECTION:waka-->
