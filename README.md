@@ -3,7 +3,7 @@
 ## Hello, This is Mohammad Sakib Mahmood
 ### Machine Learning Data Engineer (Intern) & Research Assistant  **[Advanced Machine Intelligence Research Lab](https://amirl.org/)**
 
-I am Sakib Graduate student in the Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and frameworks in Visual Studio, Atoms, and Sublime as well as work in WordPress. I love to do work on web development.
+I am Sakib, a Graduate student in the Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and frameworks in Visual Studio, Atoms, and Sublime as well as work in WordPress. I love to do work on web development and Data Science related fields.
 
 ## Skills: 
 ### Programming languages: <a href="https://www.python.org" target="_blank"> <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a> <a href="https://www.java.com" target="_blank"> <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a> <a href="https://www.cprogramming.com/" target="_blank"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a> <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
