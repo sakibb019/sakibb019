@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=&height=300&section=header&text=Mohammad%20Sakib%20Mahmood&fontSize=50&animation=fadeIn&fontAlignY=38&desc=GitHub%20Profile&descAlignY=51&descAlign=62)
 
 ## Hello, This is Mohammad Sakib Mahmood
-### Machine Learning Data Engineer (Intern) & Research Assistant  **[Advanced Machine Intelligence Research Lab](https://amirl.org/)**
+### Machine Learning Data Engineer (Intern) & Research Assistant  **[Advanced Machine Intelligence Research Lab](https://amirl.org/)** and also Research lead  **[Elitelab.Ai](https://elitelab.ai/)**
 
 I am Sakib, a Graduate student in the Computer Science department at [Missouri State University](https://www.missouristate.edu/). I do work on Data science projects, ML, Database management, Cyber Security, Artificial Intelligence, and frameworks in Visual Studio, Atoms, and Sublime as well as work in WordPress. I love to do work on web development and Data Science related fields.
 
