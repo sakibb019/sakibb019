@@ -21,7 +21,7 @@ I am Sakib, a Graduate student in the Computer Science department at [Missouri S
 ## Connect
 - 📫 How to reach me: mohammadsakibmahmood635@gmail.com 
 - 💻 Here is my [Research HomePage](https://mohammadresearch.netlify.app/#), [Personal HomePage](https://sakibmahmood019.netlify.app/),
-- 💳 My NPX business card is (*Before it the **[Node.js](https://nodejs.org/en/)** must be installed on the machine, and then in the command prompt simply type*) **`npx sa.sakibbb`** and then run.
+- 💳 My NPX business card is (*Before it the **[Node.js](https://nodejs.org/en/)** must be installed on the machine, and then in the command prompt simply type*) **`npx sakib-card`** and then run.
 - Joint collaboration research work with the U.S.A., Japan, Saudi Arabia, Bangladesh, and Hungary at **[Advanced Machine Intelligence Research Lab](https://amirl.org/)**
 
 #### *Currently looking for a Faculty position/ Ph.D program in Computer Science/Engineering, Data Scientist, Research Assistant Roles*
