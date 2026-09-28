@@ -35,7 +35,8 @@ I am Sakib, a Graduate student in the Computer Science department at [Missouri S
 <!--START_SECTION:waka-->
 
 ```txt
-Other   4 hrs 43 mins         █████████████████████████   100.00 %
+Other        5 hrs 6 mins          █████████████████████████   99.78 %
+JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
